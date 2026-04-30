@@ -1,0 +1,9 @@
+# Generados por SASS
+styles.css
+.sass-cache/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
