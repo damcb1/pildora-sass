@@ -6,7 +6,7 @@ Ver presentación en Canva: https://canva.link/2jb6tkz22vvc25k
 
 ## Conceptos cubiertos
 - Qué es SASS
-- Key
+- Key concepts
 - Variables (`$`)
 - Nesting
 - Mixins (`@mixin` / `@include`)
